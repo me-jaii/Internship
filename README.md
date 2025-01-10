@@ -115,6 +115,9 @@ The 32650 cell is primarily available in **LiFePO₄ (Lithium Iron Phosphate)** 
 - **Disadvantages**: Low energy density.
 
 ---
+### Comparison of the four lithium-ion chemistries across key factors
+![Comparison of the four lithium-ion chemistries across key factors](table.png)
+
 
 ## Battery Management System (BMS)
 A Battery Management System ensures the safety, longevity, and performance of a battery by:
